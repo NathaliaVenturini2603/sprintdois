@@ -41,7 +41,7 @@ form.addEventListener('submit', (e) => {
         return
     }
 
-    window.location.href = "filmes.html"
+    window.location.href = "perfis.html"
 });
 
 function validateloginform(email, password) {
