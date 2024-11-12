@@ -7,6 +7,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	margin: auto;
+	color: white;
 }
 
 form {
@@ -24,7 +25,7 @@ button {
 }
 
 input {
-	background: #000000;
+	background:#000000;
 	border: 0px;
 	margin-bottom: 2px;
 	color: white;
@@ -66,3 +67,11 @@ form div.incorrect input {
     color: #f06272;
     padding-bottom: 20px;
 }
+
+.texto {
+	position: center;
+	color: white;
+	left: 90%;
+	
+}
+

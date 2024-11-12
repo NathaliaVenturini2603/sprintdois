@@ -11,7 +11,7 @@ form.addEventListener('submit', (e) => {
 
     const fileName = e.target.baseURI.split("/").pop();
 
-    if (fileName === "register.html"){
+    if (fileName === "registro.html"){
         errors = validateRegisterForm(
             name_input.value,
             email_input.value,
