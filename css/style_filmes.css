@@ -81,7 +81,7 @@ video {
 #carouselExampleControls {
     background-color: transparent;
     position: absolute;
-    bottom: -600px;
+    bottom: -300px;
     left: 50px;
     right: 30px;
 }
@@ -89,7 +89,7 @@ video {
 #carouselExampleControls2 {
     background-color: transparent;
     position: absolute;
-    bottom: -990px;
+    bottom: -700px;
     left: 50px;
     right: 30px;
 
@@ -98,7 +98,7 @@ video {
 #carouselExampleControls3 {
     background-color: transparent;
     position: absolute;
-    bottom: -1380px;
+    bottom: -1100px;
     left: 50px;
     right: 30px;
 }
@@ -106,7 +106,7 @@ video {
 #carouselExampleControls4 {
     background-color: transparent;
     position: absolute;
-    bottom: -1780px;
+    bottom: -1500px;
     left: 50px;
     right: 30px;
 }
@@ -114,7 +114,7 @@ video {
 #carouselExampleControls5 {
     background-color: transparent;
     position: absolute;
-    bottom: -2175px;
+    bottom: -1900px;
     left: 50px;
     right: 30px;
 }
@@ -122,7 +122,7 @@ video {
 #carouselExampleControls6 {
     background-color: transparent;
     position: absolute;
-    bottom: -2580px;
+    bottom: -2260px;
     left: 50px;
     right: 30px;
 }
@@ -130,7 +130,7 @@ video {
 #carouselExampleControls7 {
     background-color: transparent;
     position: absolute;
-    bottom: -3000px;
+    bottom: -2620px;
     left: 50px;
     right: 30px;
 }
